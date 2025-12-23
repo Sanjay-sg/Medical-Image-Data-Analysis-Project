@@ -1,4 +1,5 @@
-## Medical Image Data Analysis Project
+## Kideny Stone Detection Using Deep Learning
+
 The primary goal of this project is to develop a robust and efficient deep learning model to assist in the automated  kidney Stone Detection.
 
 ## About
